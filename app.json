@@ -1,10 +1,10 @@
 {
 
-  "name": "GAVINDU-MD",
+  "name": "KALINDU-MD",
 
-  "description": "THARU_X-MD has been designed to make things easier and fun while using WhatsApp. 🙂🔆",
+  "description": "KALINDU-MD has been designed to make things easier and fun while using WhatsApp. 🙂🔆",
 
-  "logo": "https://telegra.ph/file/34aa64d2f4ed281717f13.jpg",
+  "logo": "https://telegra.ph/file/847b54dd9c025e6d02c3c.jpg",
 
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device"],
 
@@ -18,7 +18,7 @@
 
   "description": "BOT ට එන්න ඕන නම දෙන්න ",
 
-      "value": " 🔆 GAVINDU-MD 🔆 "
+      "value": "✪▬ KᗩᒪIᑎᗪᑌ-ᗰᗪ ▬✪"
 
   },
 
@@ -26,7 +26,7 @@
 
     "description": "alive එකට එන්න ඕන image එකක url එකක් දෙන්න",
    
-   "description": "https://telegra.ph/file/34aa64d2f4ed281717f13.jpg",
+   "description": "https://telegra.ph/file/847b54dd9c025e6d02c3c.jpg",
 
      "required" :false
 
@@ -96,7 +96,7 @@
 
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
 
-       "value": "94775128817"
+       "value": "94758179948"
 
   },
 
@@ -152,7 +152,7 @@
 
     "description": "Put packname;authorname.",
 
-     "value": "GAVINU-MD💃;GAVINDU OFFICIAL ⚖️",
+     "value": "✪▬ KᗩᒪIᑎᗪᑌ-ᗰᗪ ▬✪;ᴋᴀʟɪɴᴅᴜ ᴏꜰᴄ ⚖️",
 
      "required": false 
 
