@@ -23,8 +23,8 @@
   ### Simple Method
 
 [![Deploy]
+   
    (https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/MR-KALIDUWA-OFC/KALINDU-MD&template=https://github.com/MR-KALIDUWA-OFC/KALINDU-MD.git)
-     </div>
   
 <a href="https://app.uffizzi.com/projects"><img src="https://telegra.ph/file/e464e609e43eb3dfdc144.png" alt="Deploy on Railway" width="170px"></a>
 </p>
