@@ -6,17 +6,17 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 global.owner = process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "Enter-MongoURI-HERE"
 global.port= process.env.PORT || 5000
-global.email = 'gavindurukshan2023@gmail.com'
-global.github = 'https://github.com/Rukshan208/GAVINDU-MD/GAVINDU-BOT'
+global.email = 'kaliduofficial2023@gmail.com'
+global.github = 'https://github.com/MR-KALIDUWA-OFC/KALINDU-MD'
 global.location = 'Gampaha'
 global.gurl = 'https://instagram.com/' // add your username
-global.sudo = process.env.SUDO || '94740538046'
-global.devs = '94740538046';
+global.sudo = process.env.SUDO || '94758179948'
+global.devs = '94758179948';
 global.website = 'https://github.com/tharuxbot/THARU_X-BOT' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://github.com/tharuxbot/THARU_X-BOT'
 module.exports = {
-  botname: process.env.BOT_NAME || 'GAVINDU-MD',
-  ownername:process.env.OWNER_NAME || 'SHAKTHI',
+  botname: process.env.BOT_NAME || 'KALINDU-MD',
+  ownername:process.env.OWNER_NAME || 'KALINDU',
   sessionName: process.env.SESSION_ID || 'PUT-HERE',
   author: process.env.PACK_INFO.split(";")[0] || 'author', 
   auto_read_status : process.env.AUTO_READ_STATUS || 'false',
