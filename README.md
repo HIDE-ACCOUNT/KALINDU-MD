@@ -25,7 +25,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@REALKALIDU/KALINDU-MD-1)
     
    
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/MR-KALIDUWA-OFC/KALINDU-MD&template=https://github.com/MR-KALIDUWA-OFC/KALINDU-MD.git)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/MR-KAPAYA/KALINDU-MD&template=https://github.com/MR-KALIDUWA-OFC/KALINDU-MD.git)
 
   
   
